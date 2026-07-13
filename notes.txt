@@ -1,5 +1,7 @@
 Master of versions
-
+AND
+Conflict Version
+Test of the day 5 ou 6, i don't know AHAHAHAHAH
 Firs Commit of day TWO!
 
 New line for learning git diff

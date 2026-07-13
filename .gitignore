@@ -1,0 +1,4 @@
+*.txt
+!notes.txt
+!feature.txt
+!simples.txt

@@ -1,4 +1,4 @@
-*.md
+*.vsbcjs
 !notes.txt
 !feature.txt
 !simples.txt

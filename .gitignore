@@ -1,4 +1,4 @@
-*.txt
+*.md
 !notes.txt
 !feature.txt
 !simples.txt

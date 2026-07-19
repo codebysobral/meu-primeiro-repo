@@ -1,3 +1,5 @@
+LINE SPECIAL STASH
+
 Master of versions
 AND
 Conflict Version
@@ -7,3 +9,5 @@ Firs Commit of day TWO!
 New line for learning git diff
 
 Second line again, for learning git restore
+
+This day 12, its beatiful day!!
